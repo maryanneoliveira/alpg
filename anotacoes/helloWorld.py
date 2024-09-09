@@ -10,6 +10,11 @@ print (29-8) #subtração
 print (10/2) #divisão
 print (2*19) #multiplicação
 
+#operadores especiais:
+print(10//3) #o resultado é apenas a parte inteira da divisão
+print(9**2) #potenciação
+print(12%2) #resto da divisão
+
 #concatenação = juntando dados
 
 print ("mary" + " jardiel")
