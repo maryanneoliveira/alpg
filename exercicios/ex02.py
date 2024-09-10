@@ -6,4 +6,6 @@
 nome = input("qual é o seu nome? ");
 idade_atual = int(input("qual a sua idade? "));
 idade_futura = idade_atual+10
-print("Olá", nome,"você terá", idade_futura,"anos daqui 10 anos." )
+#print("Olá", nome,"você terá", idade_futura,"anos daqui 10 anos." )
+
+print(f"olá {nome}. você terá {idade_futura} anos, daqui 10 anos");
