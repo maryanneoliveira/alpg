@@ -20,3 +20,20 @@ lembrando também das regras de não usar palavras reservadas (if, else,for,algo
 """
 
 #ANALISTA DE REQUISITOS VAI VERIFICAR TUDO QUE O PROJETO PRECISA, ELE ANALISA.
+
+'''OPERADORES LÓGICOS
+True ou False (do tipo booleano), usamos para fazer comparações.
+'''
+
+print("ola" == "Ola") #verifica se são iguais
+#retorna False, pois não é igual. por conta das letras maiúscula e minuscula
+
+print("ola" != "Ola") #verifica se são diferentes
+#retorna verdadeiro, pois são diferentes. python é case sensitivy, ela diferencia letras maiúsculas ou minúsculas
+
+print(20 == "20)") #false
+print ( 20 > 39) #false
+print(1 <= 19) #true
+
+
+
