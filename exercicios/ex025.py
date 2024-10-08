@@ -1,4 +1,8 @@
-'''Faça um algoritmo que irá fazer o cadastro de usuário. Para isso, solicita o nome do usuário, e a senha. Depois, pede que o usuário confirme novamente a senha. O sistema deverá verificar se as senhas digitadas são iguais. Se forem iguais, informar que o cadastro está correto. Se não forem iguais, informar que o cadastro não foi realizado porque as senhas não conferem.'''
+'''Faça um algoritmo que irá fazer o cadastro de usuário. Para isso, solicita o nome do usuário, 
+e a senha. Depois, pede que o usuário confirme novamente a senha.
+ O sistema deverá verificar se as senhas digitadas são iguais. Se forem iguais, informar que o cadastro está correto.
+ Se não forem iguais, informar que o cadastro não foi realizado porque as senhas não conferem.'''
+ 
 print("VAMOS INICIAR SEU CADASTRO...")
 nome = input("Digite seu nome:(ex: João,Paulo,Maria...) ")
 senha = int(input("Digite sua senha númerica com 4 digitos: "))
