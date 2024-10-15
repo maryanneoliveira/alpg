@@ -26,3 +26,7 @@ nomes.append("jardiel")
 nomes.append('val')
 
 print(nomes)
+
+#REMOVENDO UM ITEM DA LISTA: 
+nomes.remove("val")
+print(nomes)
