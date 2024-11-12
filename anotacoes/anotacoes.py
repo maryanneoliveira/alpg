@@ -34,6 +34,3 @@ print("ola" != "Ola") #verifica se são diferentes
 print(20 == "20)") #false
 print ( 20 > 39) #false
 print(1 <= 19) #true
-
-
-
